@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👾 Jonathan Matthias (Raikor727)
 
-<!--
-**Raikor727-7/Raikor727-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🔐 Foco em Cibersegurança, Hacking Ético e Programação  
+🌱 Estudando: Redes, Criptografia, Forense Digital e Shell Script  
+🎯 Objetivo: Proteger, Aprender e Desafiar Sistemas Nocivos
 
-Here are some ideas to get you started:
+## 🔗 Links
+- 🔒 TryHackMe: [tryhackme.com/p/SEU_USUARIO](https://tryhackme.com/p/VULT727)
+- 📂 Repositórios com Writeups: [tryhackme-writeups](https://github.com/Raikor727-7/tryhackme-writeups)
+- 🧠 Projeto X9-L0P: Em construção...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+
+## 📛 Badges
+![GitHub followers](https://img.shields.io/github/followers/Raikor727-7?label=Followers)
+![TryHackMe badge](https://img.shields.io/badge/TryHackMe-VULT727-blue)
