@@ -1,13 +1,13 @@
 # 👾 Jonathan Matthias (Raikor727)
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas no IFPE 
-🔐 Foco em Cibersegurança, Hacking Ético e Programação  
+🔐 Foco em Cibersegurança, Hacking Ético e Programação 
 👨‍💻 Aprendendo C, Bash, Python
 🌱 Estudando: Redes, Criptografia, Forense Digital e Shell Script  
 🎯 Objetivo: Proteger, Aprender e Desafiar Sistemas Nocivos
 
 ## 🔗 Links
-- 🔒 TryHackMe: [tryhackme.com/p/SEU_USUARIO](https://tryhackme.com/p/VULT727)
+- 🔒 TryHackMe: [tryhackme.com/p/VULT727](https://tryhackme.com/p/VULT727)
 - 📂 Repositórios com Writeups: [tryhackme-writeups](https://github.com/Raikor727-7/tryhackme-writeups)
 
 ## 📊 Estatísticas
