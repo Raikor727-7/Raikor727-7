@@ -52,13 +52,15 @@ Se envolve hardware, redes ou segurança, é comigo.
 
 ## 🛡️ Badges
 
+ 
+<img src="https://tryhackme-badges.s3.amazonaws.com/VULT727.png" alt="Your Image Badge" />  
 ![Cybersecurity](https://img.shields.io/badge/Security-Offensive-red)
 ![Pentest](https://img.shields.io/badge/Pentest-Tools-black)
 ![Network](https://img.shields.io/badge/Networking-TCP/IP-blue)  
 ![C](https://img.shields.io/badge/C-Low%20Level-00599C)
 ![Python](https://img.shields.io/badge/Python-Automation-yellow)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black)  
-![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D)  
+![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D)
 ![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-green)
 
 ## 🎯 Objetivo
